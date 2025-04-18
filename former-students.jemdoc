@@ -1,0 +1,108 @@
+# jemdoc: addcss{jemdoc.css}
+
+~~~
+{}{raw}
+<!-- Begin entire layout table -->
+<table summary="Table for page layout." id="tlayout">
+  <tr valign="top">
+    <!-- Left menu column -->
+    <td id="layout-menu">
+      <div class="menu-category">Aylin Yener</div>
+      <div class="menu-item"><a href="index.html">Home</a></div>
+      <div class="menu-item"><a href="biography.html">Biography</a></div>
+      <div class="menu-category">Research group</div>
+      <div class="menu-item"><a href="current-students.html">Current students</a></div>
+      <div class="menu-item"><a href="former-students.html" class="current">Former students</a></div>      
+	  <div class="menu-category">Teaching</div>
+      <div class="menu-item"><a href="courses.html">Courses</a></div>   
+      <div class="menu-category">Publications</div>	  
+	  <div class="menu-item"><a href="preprints.html">Preprints</a></div>
+      <div class="menu-item"><a href="articles.html">Articles</a></div>
+      <div class="menu-item"><a href="proceedings.html">Proceedings</a></div>
+      <div class="menu-item"><a href="chapters.html">Chapters</a></div>
+      <div class="menu-category">Some links</div>
+      <div class="menu-item">
+        <a href="https://scholar.google.com/citations?user=W6DNu0cAAAAJ&hl=en" target="_blank">
+          Google Scholar Profile
+        </a>
+      </div>
+      <div class="menu-item">
+        <a href="https://u.osu.edu/inspire/" target="_blank">
+          INSPIRE@OhioState
+        </a>
+      </div>
+	        <div class="menu-item">
+        <a href="https://6gandbeyond.osu.edu/" target="_blank">
+          6G and Beyond
+        </a>
+      </div>
+      </td>
+
+    <!-- Right content column -->
+    <td id="layout-content">
+      <div id="toptitle">
+        <h1>Aylin Yener</h1>
+      </div>
+
+      
+
+	<h2>Post-Doc Alumni</h2>
+		<p>Shirin Saeedi Bidokhti, Post‑Doc 2017; Assistant Professor at UPenn</p>
+		<p>Rémi A. Chou, Post‑Doc 2015–2017; Assistant Professor at UT Arlington</p>
+		<p>Ebrahim MolavianJazi, Post‑Doc 2014–2016; Samsung Research America</p>
+		<p>Igor Stanojev, Post‑Doc 2010–2012; Assistant Professor at UW Platteville</p>
+		<p>Satashu Goel, Post‑Doc 2009–2010; Qualcomm</p>
+	
+	<h2>Ph.D. Alumni</h2>
+		<p>Shiyang Leng, Ph.D. 2020; Samsung Research America</p>
+		<p>Abdelrahman Ibrahim, Ph.D. 2019; Qualcomm</p>
+		<p>Ahmed A. Zewail, Ph.D. 2019; Qualcomm</p>
+		<p>Mohamed Nafea, Ph.D. 2018; Assistant Professor at Missouri S&T</p>
+		<p>Burak Varan, Ph.D. 2017; Amazon</p>
+		<p>Basak Guler, Ph.D. 2017; Assistant Professor at UC Riverside</p>
+		<p>Kaya Tutuncuoglu, Ph.D. 2015; Facebook</p>
+		<p>Ye Tian, Ph.D. 2013; Broadcom</p>
+		<p>Min Li, Ph.D. 2012; Young Professor at Zhejiang University</p>
+		<p>Ertugrul Necdet Ciftcioglu, Ph.D. 2012; Qualcomm</p>
+		<p>Xiang He, Ph.D. 2010; Microsoft</p>
+		<p>Min Chen, Ph.D. 2009; Microsoft</p>
+		<p>Ender Tekin, Ph.D. 2008; American Family Insurance</p>
+		<p>Kyounghwan Lee, Ph.D. 2007; CNH</p>
+		<p>Changyoon Oh, Ph.D. 2005; Professor at Inha Technical College</p>
+		<p>Semih Serbetli, Ph.D. 2005; NXP Semiconductors</p>
+		
+	<h2>MS. Alumni</h2>
+		<p>Ece Bingol, MS 2023</p>
+		<p>Chengwei Duan, MS 2021</p>
+		<p>Malak Shah, MS 2020; Lynk</p>
+		<p>Basak Guler, MS 2012; Assistant Professor at UC Riverside</p>
+		<p>Chien‑Jen Huang, MS 2007; XUNWEI Technology</p>
+		<p>Laren Huie, MS 2007; Air Force Research Laboratory</p>
+		<p>Sandeep Bethanabhotla, MS 2005; Broadcom</p>
+		<p>Sung‑Min Bae, MS 2005</p>
+		<p>Girish Khandelwal, MS 2005; Qualcomm</p>
+		<p>Onder Filiz, MS 2003; Rogers Communications</p>
+		<p>Battal Ozdemir, MS 2003; HSBC</p>
+		<p>Atul Divakaran, MS 2003; Google</p>
+		
+	<h2>Undergraduate Alumni</h2>
+		<p>Daniel Szoke, B.S. 2023</p>
+		<p>Michael Wang, B.S. 2011</p>
+		<p>Chip McArtor, B.S. 2004</p>
+		<p>Mikhail Lisovich, B.S. 2006</p>
+
+
+
+		
+		
+      <div id="footer">
+        <div id="footer-text">
+          Page generated 2025-03-02 20:05:34 EST, by
+          <a href="http://jemdoc.jaboc.net/">jemdoc</a>.
+        </div>
+      </div>
+    </td>
+  </tr>
+</table>
+<!-- End entire layout table -->
+~~~

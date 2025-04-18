@@ -1,0 +1,9 @@
+python jemdoc.py jemdoc/index.jemdoc
+python jemdoc.py jemdoc/articles.jemdoc
+python jemdoc.py jemdoc/former-students.jemdoc
+python jemdoc.py jemdoc/current-students.jemdoc
+python jemdoc.py jemdoc/proceedings.jemdoc
+python jemdoc.py jemdoc/chapters.jemdoc
+python jemdoc.py jemdoc/biography.jemdoc
+python jemdoc.py jemdoc/preprints.jemdoc
+python jemdoc.py jemdoc/courses.jemdoc

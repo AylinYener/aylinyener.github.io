@@ -1,0 +1,72 @@
+# jemdoc: addcss{jemdoc.css}
+
+~~~
+{}{raw}
+<!-- Begin entire layout table -->
+<table summary="Table for page layout." id="tlayout">
+  <tr valign="top">
+    <!-- Left menu column -->
+    <td id="layout-menu">
+      <div class="menu-category">Aylin Yener</div>
+      <div class="menu-item"><a href="index.html">Home</a></div>
+      <div class="menu-item"><a href="biography.html">Biography</a></div>
+      <div class="menu-category">Research group</div>
+      <div class="menu-item"><a href="current-students.html">Current students</a></div>
+      <div class="menu-item"><a href="former-students.html">Former students</a></div>      
+	  <div class="menu-category">Teaching</div>
+      <div class="menu-item"><a href="courses.html">Courses</a></div>   
+      <div class="menu-category">Publications</div>	  
+	  <div class="menu-item"><a href="preprints.html">Preprints</a></div>
+      <div class="menu-item"><a href="articles.html">Articles</a></div>
+      <div class="menu-item"><a href="proceedings.html">Proceedings</a></div>
+      <div class="menu-item"><a href="chapters.html" class="current">Chapters</a></div>
+      <div class="menu-category">Some links</div>
+      <div class="menu-item">
+        <a href="https://scholar.google.com/citations?user=W6DNu0cAAAAJ&hl=en" target="_blank">
+          Google Scholar Profile
+        </a>
+      </div>
+      <div class="menu-item">
+        <a href="https://u.osu.edu/inspire/" target="_blank">
+          INSPIRE@OhioState
+        </a>
+      </div>
+	        <div class="menu-item">
+        <a href="https://6gandbeyond.osu.edu/" target="_blank">
+          6G and Beyond
+        </a>
+      </div>
+      </td>
+
+    <!-- Right content column -->
+    <td id="layout-content">
+      <div id="toptitle">
+        <h1>Aylin Yener</h1>
+      </div>
+
+	<h2>Chapters</h2>
+	<ol>
+		<li>Emrecan Kutay and Aylin Yener, Semantic Compression and Communication: Fundamentals and Methodologies, <a href="https://www.wiley.com/en-cn/Foundations+of+Semantic+Communication+Networks-p-9781394247882"><em>Foundations of Semantic Communication Networks</em></a>, Editors: W. Saad, C. Chaccour, C. Thomas, M. Debbah, Wiley 2025.</li>
+		<li>Yalin E. Sagduyu, Aylin Yener and Sennur Ulukus, Securing Semantic Communications against Adversarial Attacks, <a href="https://www.wiley.com/en-cn/Foundations+of+Semantic+Communication+Networks-p-9781394247882"><em>Foundations of Semantic Communication Networks</em></a>, Editors: W. Saad, C. Chaccour, C. Thomas, M. Debbah, Wiley 2025.</li>
+		<li>Mohamed Nafea and Aylin Yener, Secrecy of Edge Caching, <a href="https://shop.theiet.org/edge-caching-for-mobile-networks"><em>Edge Caching for Mobile Networks</em></a>, Editors: V. Poor and W. Chen, The Institution of Engineering and Technology 2021.</li>
+		<li>Basak Guler and Aylin Yener, Influence Propagation in Social Networks with Positive and Negative Relationships, <a href="https://link.springer.com/referencework/10.1007%2F978-1-4939-7131-2"><i>Encyclopedia of Social Network Analysis and Mining</i></a>, Editors: R. Alhajj and J. Rokne, Springer 2018.</li>
+		<li>Shiyang Leng and Aylin Yener, Resource Allocation in Body Area Networks for Energy Harvesting Healthcare Monitoring, <a href="https://link.springer.com/book/10.1007/978-3-319-58280-1"><i>Handbook of Large-Scale Distributed Computing in Smart Healthcare</i></a>, Editors: S. Khan, A. Zomaya, and A. Abbas, Springer 2017.</li>
+		<li>Mohamed Nafea and Aylin Yener, MIMO wiretap channels, <a href="http://www.cambridge.org/us/academic/subjects/engineering/communications-and-signal-processing/information-theoretic-security-and-privacy-information-systems?format=HB&amp;isbn=9781107132269#MtLCuy4tovhQFgrv.97"><i>Information Theoretic Security and Privacy of Information Systems</i></a>, Editors: R. Schaefer, H. Boche, A. Khisti, and V. Poor, Cambridge University Press 2017.</li>
+		<li>Xiang He and Aylin Yener, Secrecy with Feedback, <a href="http://www.crcpress.com/product/isbn/9781466567009"><i>Physical Layer Security in Wireless Communications</i></a>, Editors: X. Zhou, L. Song and Y. Zhang, CRC Press 2013.</li>
+		<li>Xiang He and Aylin Yener, Cooperative Jamming: The Tale of Friendly Interference for Secrecy, <a href="http://www.springer.com/engineering/signals/book/978-1-4419-1384-5"><i>Securing Wireless Communications at the Physical Layer</i></a>, Editors: R. Liu and W. Trappe, Springer 2009.</li>
+	</ol>
+
+
+		
+		
+      <div id="footer">
+        <div id="footer-text">
+          Page generated 2025-03-02 20:05:34 EST, by
+          <a href="http://jemdoc.jaboc.net/">jemdoc</a>.
+        </div>
+      </div>
+    </td>
+  </tr>
+</table>
+<!-- End entire layout table -->
+~~~

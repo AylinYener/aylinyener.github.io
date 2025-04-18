@@ -1,0 +1,94 @@
+# jemdoc: addcss{jemdoc.css}
+
+~~~
+{}{raw}
+<!-- Begin entire layout table -->
+<table summary="Table for page layout." id="tlayout">
+  <tr valign="top">
+    <!-- Left menu column -->
+    <td id="layout-menu">
+      <div class="menu-category">Aylin Yener</div>
+      <div class="menu-item"><a href="index.html">Home</a></div>
+      <div class="menu-item"><a href="biography.html">Biography</a></div>
+      <div class="menu-category">Research group</div>
+      <div class="menu-item"><a href="current-students.html">Current students</a></div>
+      <div class="menu-item"><a href="former-students.html">Former students</a></div>      
+	  <div class="menu-category">Teaching</div>
+      <div class="menu-item"><a href="courses.html" class="current">Courses</a></div>   
+      <div class="menu-category">Publications</div>	  
+	  <div class="menu-item"><a href="preprints.html">Preprints</a></div>
+      <div class="menu-item"><a href="articles.html">Articles</a></div>
+      <div class="menu-item"><a href="proceedings.html">Proceedings</a></div>
+      <div class="menu-item"><a href="chapters.html">Chapters</a></div>
+      <div class="menu-category">Some links</div>
+      <div class="menu-item">
+        <a href="https://scholar.google.com/citations?user=W6DNu0cAAAAJ&hl=en" target="_blank">
+          Google Scholar Profile
+        </a>
+      </div>
+      <div class="menu-item">
+        <a href="https://u.osu.edu/inspire/" target="_blank">
+          INSPIRE@OhioState
+        </a>
+      </div>
+	        <div class="menu-item">
+        <a href="https://6gandbeyond.osu.edu/" target="_blank">
+          6G and Beyond
+        </a>
+      </div>
+      </td>
+
+    <!-- Right content column -->
+    <td id="layout-content">
+      <div id="toptitle">
+        <h1>Aylin Yener</h1>
+      </div>
+
+	<h2>Spring 25</h2>
+	<ul>
+	  <li>ECE 7005 – Information Theory</li>
+	</ul>
+
+	<h2>Autumn 24</h2>
+	<ul>
+	  <li>ECE 6001 – Probability and Random Variables</li>
+	</ul>
+
+	<h2>Spring 24</h2>
+	<ul>
+	  <li>ECE 7001 – Stochastic Processes, Detection, and Estimation</li>
+	</ul>
+
+	<h2>Spring 23</h2>
+	<ul>
+	  <li>ECE 7005 – Information Theory</li>
+	</ul>
+
+	<h2>Autumn 22</h2>
+	<ul>
+	  <li>ECE 6001 – Probability and Random Variables</li>
+	</ul>
+
+	<h2>Autumn 21</h2>
+	<ul>
+	  <li>ECE 7003 – Wireless Communication Theory</li>
+	</ul>
+
+	<h2>Spring 21</h2>
+	<ul>
+	  <li>ECE 7005 – Information Theory</li>
+	</ul>
+
+		
+		
+      <div id="footer">
+        <div id="footer-text">
+          Page generated 2025-03-02 20:05:34 EST, by
+          <a href="http://jemdoc.jaboc.net/">jemdoc</a>.
+        </div>
+      </div>
+    </td>
+  </tr>
+</table>
+<!-- End entire layout table -->
+~~~
