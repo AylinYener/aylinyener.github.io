@@ -7,3 +7,4 @@ python jemdoc.py chapters.jemdoc
 python jemdoc.py biography.jemdoc
 python jemdoc.py preprints.jemdoc
 python jemdoc.py courses.jemdoc
+python jemdoc.py talks.jemdoc
