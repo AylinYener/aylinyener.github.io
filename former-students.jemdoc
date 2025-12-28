@@ -24,6 +24,11 @@
       <div class="menu-item"><a href="courses.html">Courses</a></div> 
       <div class="menu-category">Some links</div>
       <div class="menu-item">
+        <a href="https://www.linkedin.com/in/professor-aylin-yener-/" target="_blank">
+          LinkedIn
+        </a>
+      </div>
+      <div class="menu-item">
         <a href="https://scholar.google.com/citations?user=W6DNu0cAAAAJ&hl=en" target="_blank">
           Google Scholar Profile
         </a>
